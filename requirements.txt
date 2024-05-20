@@ -6,3 +6,4 @@ flask
 pypdf
 pydantic==1.10.13
 docarray==0.32.1
+-e . #this is for setup.py to set up local variable.
