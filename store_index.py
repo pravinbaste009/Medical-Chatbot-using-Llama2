@@ -10,8 +10,6 @@ load_dotenv()
 PINECONE_API_KEY = os.environ.get('PINECONE_API_KEY')
 index_name = os.environ.get('index_name')
 
-print(PINECONE_API_KEY)
-print(index_name)
 
 
 #01. load the PDF
