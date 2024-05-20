@@ -4,3 +4,5 @@ pinecone-client
 langchain==0.0.225
 flask
 pypdf
+pydantic==1.10.13
+docarray==0.32.1
